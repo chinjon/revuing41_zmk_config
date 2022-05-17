@@ -15,5 +15,6 @@ Specs:
   * lubed - krytox 205g
   * band-aid mod
 * nice!nano v2 microcontroller
-
+  * [flashed with ZMK firmware](https://zmk.dev/)
+  
 Some minor adjustments from thee ZMK default includes remapping one of the `alt`keys to be a `gui` key for macos.
